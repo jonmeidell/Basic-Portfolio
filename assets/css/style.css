@@ -1,3 +1,14 @@
+head {
+    font-family: "Georgia";
+}
+
+
 body {
-    background-image:url"../assets/images/977940_10152854814960525_1733946503_o[1].jpg";>
-  }
+    background-image:"./assets/images/977940_10152854814960525_1733946503_o[1].jpg";>
+
+}
+
+h3 {
+    color: #4aaaa5;
+
+}
