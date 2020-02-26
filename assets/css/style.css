@@ -10,5 +10,19 @@ body {
 
 h3 {
     color: #4aaaa5;
+    
+}
+
+aside {
+    float: left;
+    width: 150px;
+    height: 200px;
+
+}
+
+main {
+    float: right;
+    width: 450px;
+    height: 200px;
 
 }
