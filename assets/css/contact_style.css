@@ -1,9 +1,17 @@
+#contact {
+    font-size: 36px;
+    color: white;
+    background-color: teal;
+    width: 193px;
+    padding: 10px;
+}
+
 #box {
     background-color: whitesmoke;
     width: 700px;
-    height: 500px;
+    height: 450px;
     margin: 10px 10px 30px 100px;
-    color: blue;
+    color: black;
     padding: 25px 10px 10px 10px;
     border-style: solid;
     border-width: 2px;
@@ -11,6 +19,30 @@
 }
 
 body {
-    background-image: url("../images/1276169_10153364931915525_1566939401_o[1]");
+    background-image: url("../images/leaves.jpg");
+    font-family: 'Oxanium';
+}
 
+form {
+    margin: 20px;
+}
+
+form .field {
+    padding: 20px;
+    display:flex;
+    flex-direction: column;
+    font-size: 16px;
+}
+
+form .field input,textarea {
+    padding: 5px;
+}
+
+#submit {
+    margin-left: 20px;
+    padding: 10px;
+    background-color: lightblue;
+    border-radius: 8px;
+    text-decoration: none;
+    border: none;
 }

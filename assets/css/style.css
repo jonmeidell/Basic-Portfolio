@@ -11,6 +11,10 @@
     border-color: black;
 }
 
+.links-container {
+    margin-left: 70%;
+}
+
 .me {
     font-family: 'Trade Winds';
     font-size: 60px;
@@ -34,7 +38,15 @@
     border-color: black;
 }
 
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}
 
+.left {
+    float: left;
+}
 
 body {
     background-image: url("../images/977940_10152854814960525_1733946503_o[1].jpg");
@@ -46,19 +58,12 @@ h3 {
     
 }
 
-aside {
+/* aside {
     float: left;
     width: 150px;
     height: 200px;
 
-}
-
-main {
-    float: left;
-    width: 450px;
-    height: 200px;
-
-}
+} */
 
 div:hover {
     color: rgb(11, 66, 32)
