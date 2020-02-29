@@ -1,14 +1,33 @@
+.topmenu {
+    float: right;
+    background-color: whitesmoke;
+    width: 100%;
+    height: 120px;
+    margin: -100px 10px 30px 150px;
+    color: black;
+    padding: 0px 10px 100px 10px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+}
+
+.me {
+    font-family: 'Trade Winds';
+    font-size: 60px;
+}
+
 .talk { 
-    font-family: 'Georgia', Times, Times New Roman, serif;
-    text-align: center;
+    font-family: 'Trade Winds';
+    text-align: left;
 }
 
 #box {
+    font-family: 'Oxanium';
     background-color: whitesmoke;
     width: 800px;
-    height: 250px;
+    height: 350px;
     margin: 100px 10px 30px 100px;
-    color: blue;
+    color: black;
     padding: 25px 10px 10px 10px;
     border-style: solid;
     border-width: 1px;
@@ -39,4 +58,11 @@ main {
     width: 450px;
     height: 200px;
 
+}
+
+div:hover {
+    color: rgb(11, 66, 32)
+}
+div:visited {
+    color: #f33c3c
 }
