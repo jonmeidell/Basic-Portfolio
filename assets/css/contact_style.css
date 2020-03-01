@@ -1,6 +1,6 @@
 #contact {
     font-size: 36px;
-    color: white;
+    color: whitesmoke;
     background-color: teal;
     width: 193px;
     padding: 10px;
@@ -9,7 +9,7 @@
 #box {
     background-color: whitesmoke;
     width: 700px;
-    height: 450px;
+    height: 400px;
     margin: 10px 10px 30px 100px;
     color: black;
     padding: 25px 10px 10px 10px;
@@ -41,7 +41,7 @@ form .field input,textarea {
 #submit {
     margin-left: 20px;
     padding: 10px;
-    background-color: lightblue;
+    background-color: teal;
     border-radius: 8px;
     text-decoration: none;
     border: none;
