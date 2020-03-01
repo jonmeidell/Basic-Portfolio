@@ -1,0 +1,35 @@
+#box {
+    background-color: whitesmoke;
+    width: 700px;
+    height: 450px;
+    margin: 10px 10px 30px 100px;
+    color: black;
+    padding: 25px 10px 10px 10px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+}
+
+#burger {
+    background-image: url(../images/image-placeholder-title[1].jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    min-height: 205px;
+    background-size: cover;
+}
+
+#curry {
+    background-image: url(../images/letterbox_enco_curried-lamb-or-goat-recipe-image[1].jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    min-height: 205px;
+    background-size: cover;
+}
+
+#speg {
+    background-image: url(../images/letterbox_BeerSpaghetti[1].jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    min-height: 205px;
+    background-size: cover;
+}
