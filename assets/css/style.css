@@ -54,15 +54,13 @@ body {
 }
 
 h3 {
-    color: #4aaaa5;
-    
+    color: #4aaaa5;   
 }
-
-
 
 div:hover {
     color: rgb(11, 66, 32)
 }
+
 div:visited {
     color: #f33c3c
 }
